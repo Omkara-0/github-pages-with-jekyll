@@ -1,13 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sherlock Holmes
+author: Sir Arthur Ignatius Conan Doyle
+email: onkarabhagat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
+  Sir Arthur Ignatius Conan Doyle (22 May 1859 - 7 July 1930) was a British writer, who created the character Sherlock Holmes.
+ Originally a physician, in 1887, he published A Study in Scarlet, the first sign of four novels and more than fifty short stories about Holmes & Dr. Watson.
+ The Sherlock Holmes stories generally considered milestones in the field of crime fiction. Doyle was a prolific writer; other than stories about Professor Challenger & humourous stories about the Napoleonic
+ soldier Brigadier Greard, as well as plays, romances, poetry, nonfiction & historical novels. One of Doyle's early short stories, ‘J. Habakuk Jephson's Statement’, helped to popularise the mystery of the Mary Celeste.
+ The Sign of Four is the second novel of Arthur Conan Doyle in which Sherlock Holmes & Dr. Watson solve the mystery of the hidden treasure & murder.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Om_ka_ra1 # DO NOT include the @ character, or else the build will fail!
+github_username:  Omkara-0 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
